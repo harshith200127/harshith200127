@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 😃 &nbsp; Exploring new softwares,stocks and also very interested in full stack web development.
-- 🎓 &nbsp; Studying Computer Science and Engineering at CVR College of Engineering.
+- 🎓 &nbsp; Studying Masters in Computer Science at University of Houston.
 - 🌱 &nbsp; Learning more about Web Development, Data structures and algorithms, Cyber Security and Cloud computing.
 - ✍️ &nbsp; Pursuing Video Editing as a hobby/side hustle.
 - ✉️ &nbsp; You can shoot me an email at harshith200127@gmail.com, I'll try to respond as soon as I can.
